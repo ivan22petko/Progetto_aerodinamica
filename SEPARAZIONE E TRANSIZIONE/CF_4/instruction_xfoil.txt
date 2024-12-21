@@ -1,0 +1,12 @@
+LOAD BL207.dat
+OPER
+VISC
+2500000
+ALFA 2
+VPLO
+CF
+DUMP dati_4.dat
+plCf
+HARD cfplot.png
+  
+QUIT
