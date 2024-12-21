@@ -13,7 +13,7 @@ Il codice `hess_smith_vett.m` riporta passaggi analoghi alla versione `hess_smit
 
 In `run_xfoil.d.sh` c’è il salvataggio dei valori del cp del NACA 0012, la polare usata per ottenere i dati del cl al variare di angoli di incidenza alfa (ogni 0.5°) e la polare da cui abbiamo preso i dati del CM al variare di angoli di incidenza alfa (ogni 0.25°).
 
-# SEPARAZIONE E TRANSIONIZIONE
+# SEPARAZIONE E TRANSIZIONE
 
 In questa cartella sono riportati tutti i bash che servono per calcolare i grafici del CF per vedere separazione e transizione. Inoltre è presente anche un file `.dat` dove sono contenuti i CF per ogni punto della corda. 
 - Per CF1 si intende re=250000, alfa=1 (N=9)
